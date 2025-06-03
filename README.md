@@ -1,6 +1,6 @@
 # PURE_analyses
 
-This repository contains SAS programs developed for the analysis of the PURE dataset. The programs are written using a **procedural programming** approach, combining `DATA` and `PROC` steps in a modular and sequential manner. The goal is to ensure transparency, reproducibility, and logical flow in data processing and statistical analysis.
+This repository contains SAS programs developed for the analysis of the PURE dataset. The programs are written using a **procedural programming** approach, combining `DATA` and `PROC` steps in a modular and sequential manner. The goal is to ensure logical flow in data processing and statistical analysis.
 
 ---
 ## 📁 Folder Structure
