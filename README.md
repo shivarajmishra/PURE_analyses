@@ -4,34 +4,26 @@ This repository contains SAS programs developed for the analysis of the PURE dat
 
 ---
 ## 📁 Folder Structure
-URE_analyses/
-├── Archives/
-│ └── [Archived or deprecated files]
-│
-├── Derived data programs from Simone/
-│ ├── AllFUFormats.sas
-│ ├── PrepData_Windex_20pc_share.sas
-│ ├── demographics_format.sas
-│ ├── format.sas
-│ ├── formatAdult2.sas
-│ ├── medications_format.sas
-│ └── ... [other SAS scripts used for data derivation]
-│
-├── Master data dictionary/
-│ └── [Documents outlining variable definitions and dataset structures]
-│
-├── Ouputs/
-│ └── [Results, figures, tables, and exported datasets]
-│
-├── Programs/
-│ └── [Main analytical SAS scripts used for statistical procedures]
-│
-├── requirements.txt
-│
-└── README.md
----
+- **Archives/**
+  - Archived or deprecated files
+- **Derived data programs from Simone/**
+  - `AllFUFormats.sas`
+  - `PrepData_Windex_20pc_share.sas`
+  - `demographics_format.sas`
+  - `format.sas`
+  - `formatAdult2.sas`
+  - `medications_format.sas`
+  - Other SAS scripts used for data derivation
+- **Master data dictionary/**
+  - Documents outlining variable definitions and dataset structures
+- **Ouputs/**
+  - Results, figures, tables, and exported datasets
+- **Programs/**
+  - Main analytical SAS scripts used for statistical procedures
+- **requirements.txt.txt**
+- **README.md**
 
-## 🛠️ Programming Approach
+## Programming Approach
 All programs are written in **procedural SAS**, combining `DATA` and `PROC` steps to perform:
 - Data cleaning and preparation
 - Merging and reshaping of datasets
@@ -42,7 +34,7 @@ This approach ensures step-wise traceability of the analysis pipeline.
 
 ---
 
-## ⚠️ Important Notes for Users
+## Important Notes for Users
 
 Before running the scripts, please:
 
@@ -53,7 +45,7 @@ Before running the scripts, please:
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions, clarifications, please contact me or send a pull request.
 
